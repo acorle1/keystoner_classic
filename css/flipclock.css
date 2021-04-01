@@ -39,7 +39,11 @@
 /* Main */
 .flip-clock-wrapper {
   font: normal 11px "Helvetica Neue", Helvetica, sans-serif;
-  -webkit-user-select: none; }
+  -webkit-user-select: none;
+margin-left:auto;
+margin-right:auto;
+display:block'
+}
 
 .flip-clock-wrapper .flip-clock-meridium {
   background: none !important;
