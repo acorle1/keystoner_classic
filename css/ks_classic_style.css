@@ -1,6 +1,6 @@
 @charset "UTF-8";
-.cssversion {
-	font-family: "proxima-nova", "Arial", "sans serif";
+h1 {
+	font-family: 'Merriweather', serif;
 }
 .container {
     background-color: #FFFFFF;
